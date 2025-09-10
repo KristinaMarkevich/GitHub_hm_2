@@ -1,0 +1,9 @@
+  id- 
+  title-
+  Severity-
+  Priority- 
+  Steps to Reproduce- 
+  Expected Result- 
+  Actual Result-
+  Environment- 
+  Attachment- 
